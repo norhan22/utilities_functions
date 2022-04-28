@@ -6,3 +6,6 @@
 
 ### Convert
 - [Text](https://github.com/norhan22/utilities_functions/blob/main/Convert_to/Text.js)
+
+### Validations
+- [File](https://github.com/norhan22/utilities_functions/blob/main/validations/File.js)
